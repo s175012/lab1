@@ -2,6 +2,7 @@ import sys
 
 print(sys.version)
 
+#uwaga na ścieżki przy starcie - obie mają się zgadzać
 #file-settings-version control-github-add-zaloguj się w przeglądarce
 #git config --list
 #git config --global user.name s175012
@@ -11,4 +12,8 @@ print(sys.version)
 a = 5
 print(a)
 
-#git-commit
+#git-commit albo ptak z gita albo ctrl+k
+#git-push albo strzała z gita albo ctrl+shift+k
+#na koniec odłącz konto
+
+import this

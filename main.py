@@ -14,6 +14,6 @@ print(a)
 
 #git-commit albo ptak z gita albo ctrl+k
 #git-push albo strzała z gita albo ctrl+shift+k
-#na koniec odłącz konto
+#na koniec odłącz konto i skasuj poświadczenie do gita z menedżera poświadczeń
 
 import this
